@@ -1,3 +1,5 @@
+# Deprecated: use https://docs.linuxserver.io/images/docker-webtop instead
+
 # Docker Remote Desk Web
 webbased remote-desktop as docker container
 
